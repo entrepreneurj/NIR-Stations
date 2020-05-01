@@ -1,0 +1,572 @@
+{
+  "Adelaide": {
+    "name": "Adelaide",
+    "original_id": "3042A0",
+    "type": "R",
+    "easting": "332254",
+    "northing": "371972",
+    "tiploc": "AD",
+    "crs": "ADE",
+    "code3": "ADLDE"
+  },
+  "Antrim": {
+    "name": "Antrim",
+    "original_id": "3042A1",
+    "type": "R",
+    "easting": "315325",
+    "northing": "386992",
+    "tiploc": "AN",
+    "crs": "ANT",
+    "code3": "ANTRIM"
+  },
+  "Ballycarry": {
+    "name": "Ballycarry",
+    "original_id": "3042A3",
+    "type": "R",
+    "easting": "346402",
+    "northing": "394455",
+    "tiploc": "BC",
+    "crs": "BCY",
+    "code3": "BLYCRY"
+  },
+  "Ballymena": {
+    "name": "Ballymena",
+    "original_id": "3042A2",
+    "type": "R",
+    "easting": "310166",
+    "northing": "403192",
+    "tiploc": "BA",
+    "crs": "BAM",
+    "code3": "BALLYMA"
+  },
+  "Ballymoney": {
+    "name": "Ballymoney",
+    "original_id": "3042AA",
+    "type": "R",
+    "easting": "294987",
+    "northing": "425348",
+    "tiploc": "BY",
+    "crs": "BMY",
+    "code3": "BALLYMY"
+  },
+  "Balmoral": {
+    "name": "Balmoral",
+    "original_id": "3042A5",
+    "type": "R",
+    "easting": "331456",
+    "northing": "370851",
+    "tiploc": "BL",
+    "crs": "BAL",
+    "code3": "BALMRL"
+  },
+  "Bangor": {
+    "name": "Bangor",
+    "original_id": "3042A7",
+    "type": "I",
+    "easting": "350263",
+    "northing": "381415",
+    "tiploc": "BR",
+    "crs": "BGS",
+    "code3": "BANGOR"
+  },
+  "Bangor West": {
+    "name": "Bangor West",
+    "original_id": "3042A9",
+    "type": "R",
+    "easting": "348922",
+    "northing": "381489",
+    "tiploc": "BW",
+    "crs": "BGW",
+    "code3": "BANGORW"
+  },
+  "Belfast Central": {
+    "name": "Belfast Central",
+    "original_id": "3043AF",
+    "type": "R",
+    "easting": "334663",
+    "northing": "373896",
+    "tiploc": "CL",
+    "crs": "BFC",
+    "code3": "BFSTC"
+  },
+  "Bellarena": {
+    "name": "Bellarena",
+    "original_id": "3042A6",
+    "type": "R",
+    "easting": "266870",
+    "northing": "431503",
+    "tiploc": "BN",
+    "crs": "BEL",
+    "code3": "BELARNA"
+  },
+  "Botanic": {
+    "name": "Botanic",
+    "original_id": "3042A8",
+    "type": "R",
+    "easting": "333670",
+    "northing": "373093",
+    "tiploc": "BT",
+    "crs": "BOT",
+    "code3": "BOTNIC"
+  },
+  "Carnalea": {
+    "name": "Carnalea",
+    "original_id": "3042AB",
+    "type": "R",
+    "easting": "348063",
+    "northing": "382183",
+    "tiploc": "CA",
+    "crs": "CAR",
+    "code3": "CARNLEA"
+  },
+  "Carrickfergus": {
+    "name": "Carrickfergus",
+    "original_id": "3043B1",
+    "type": "R",
+    "easting": "341200",
+    "northing": "387704",
+    "tiploc": "CS",
+    "crs": "CFS",
+    "code3": "CRKFGUS"
+  },
+  "Castlerock": {
+    "name": "Castlerock",
+    "original_id": "3042AE",
+    "type": "R",
+    "easting": "277353",
+    "northing": "435978",
+    "tiploc": "CK",
+    "crs": "CAS",
+    "code3": "CASTRCK"
+  },
+  "City Hospital": {
+    "name": "City Hospital",
+    "original_id": "3042AD",
+    "type": "R",
+    "easting": "333163",
+    "northing": "373131",
+    "tiploc": "CH",
+    "crs": "CYH",
+    "code3": "CITYHSP"
+  },
+  "Clipperstown": {
+    "name": "Clipperstown",
+    "original_id": "3043B0",
+    "type": "R",
+    "easting": "340755",
+    "northing": "387682",
+    "tiploc": "CP",
+    "crs": "CLT",
+    "code3": "CPRSTWN"
+  },
+  "Coleraine": {
+    "name": "Coleraine",
+    "original_id": "3042AC",
+    "type": "I",
+    "easting": "285370",
+    "northing": "432601",
+    "tiploc": "CE",
+    "crs": "COL",
+    "code3": "COLRAIN"
+  },
+  "Cullybackey": {
+    "name": "Cullybackey",
+    "original_id": "3043B3",
+    "type": "R",
+    "easting": "306295",
+    "northing": "405721",
+    "tiploc": "CY",
+    "crs": "CUL",
+    "code3": "CULYBAC"
+  },
+  "Cultra": {
+    "name": "Cultra",
+    "original_id": "3043B2",
+    "type": "R",
+    "easting": "341713",
+    "northing": "380465",
+    "tiploc": "CT",
+    "crs": "CUA",
+    "code3": "CULTRA"
+  },
+  "Derriaghy": {
+    "name": "Derriaghy",
+    "original_id": "3043B5",
+    "type": "R",
+    "easting": "328318",
+    "northing": "367752",
+    "tiploc": "DH",
+    "crs": "DER",
+    "code3": "DERGHY"
+  },
+  "Dhu Varren": {
+    "name": "Dhu Varren",
+    "original_id": "3043BA",
+    "type": "R",
+    "easting": "285302",
+    "northing": "439608",
+    "tiploc": "DV",
+    "crs": "DHV",
+    "code3": "DHUVARR"
+  },
+  "Downshire": {
+    "name": "Downshire",
+    "original_id": "3043B9",
+    "type": "R",
+    "easting": "342459",
+    "northing": "388145",
+    "tiploc": "DP",
+    "crs": "DNS",
+    "code3": "DOWNSHR"
+  },
+  "Drogheda": {
+    "name": "Drogheda",
+    "original_id": "3043B4",
+    "type": "R",
+    "easting": "114030.442",
+    "northing": "432684.083",
+    "tiploc": "DG",
+    "crs": "DGA",
+    "code3": "DGHDA"
+  },
+  "Dublin Connolly": {
+    "name": "Dublin Connolly",
+    "original_id": "3043B8",
+    "type": "R",
+    "easting": "117549.103",
+    "northing": "392429.995",
+    "tiploc": "DN",
+    "crs": "DNA",
+    "code3": "CNLLY"
+  },
+  "Dundalk": {
+    "name": "Dundalk",
+    "original_id": "3043B6",
+    "type": "R",
+    "easting": "110917.496",
+    "northing": "465091.421",
+    "tiploc": "DK",
+    "crs": "DKA",
+    "code3": "DDALK"
+  },
+  "Dunmurry": {
+    "name": "Dunmurry",
+    "original_id": "3043B7",
+    "type": "R",
+    "easting": "329249",
+    "northing": "369061",
+    "tiploc": "DM",
+    "crs": "DUN",
+    "code3": "DUNMRY"
+  },
+  "Finaghy": {
+    "name": "Finaghy",
+    "original_id": "3043BB",
+    "type": "R",
+    "easting": "330275",
+    "northing": "370254",
+    "tiploc": "FY",
+    "crs": "FIN",
+    "code3": "FINGHY"
+  },
+  "Glynn": {
+    "name": "Glynn",
+    "original_id": "3044BD",
+    "type": "R",
+    "easting": "340982",
+    "northing": "399919",
+    "tiploc": "GN",
+    "crs": "GLY",
+    "code3": "GLYNN"
+  },
+  "Great Victoria St": {
+    "name": "Great Victoria St",
+    "original_id": "3044BE",
+    "type": "I",
+    "easting": "333444",
+    "northing": "373777",
+    "tiploc": "GV",
+    "crs": "GVS",
+    "code3": "GVS"
+  },
+  "Greenisland": {
+    "name": "Greenisland",
+    "original_id": "3043BC",
+    "type": "R",
+    "easting": "337168",
+    "northing": "385650",
+    "tiploc": "GD",
+    "crs": "GNI",
+    "code3": "GRNLND"
+  },
+  "Helen's Bay": {
+    "name": "Helen's Bay",
+    "original_id": "3044BF",
+    "type": "R",
+    "easting": "345785",
+    "northing": "382163",
+    "tiploc": "HB",
+    "crs": "HEL",
+    "code3": "HELNSBY"
+  },
+  "Hilden": {
+    "name": "Hilden",
+    "original_id": "3044C0",
+    "type": "R",
+    "easting": "327651",
+    "northing": "365560",
+    "tiploc": "HD",
+    "crs": "HIL",
+    "code3": "HILDEN"
+  },
+  "Holywood": {
+    "name": "Holywood",
+    "original_id": "3044C1",
+    "type": "R",
+    "easting": "339566",
+    "northing": "379167",
+    "tiploc": "HW",
+    "crs": "HOL",
+    "code3": "HOLYWD"
+  },
+  "Jordanstown": {
+    "name": "Jordanstown",
+    "original_id": "3044C2",
+    "type": "R",
+    "easting": "335802",
+    "northing": "384164",
+    "tiploc": "JN",
+    "crs": "JNT",
+    "code3": "JDNSTWN"
+  },
+  "Lambeg": {
+    "name": "Lambeg",
+    "original_id": "3044C4",
+    "type": "R",
+    "easting": "327616",
+    "northing": "366385",
+    "tiploc": "LG",
+    "crs": "LAM",
+    "code3": "LAMBEG"
+  },
+  "Larne Harbour": {
+    "name": "Larne Harbour",
+    "original_id": "3044C6",
+    "type": "R",
+    "easting": "341523",
+    "northing": "402231",
+    "tiploc": "LR",
+    "crs": "LRH",
+    "code3": "LARNEHB"
+  },
+  "Larne Town": {
+    "name": "Larne Town",
+    "original_id": "3044C5",
+    "type": "R",
+    "easting": "340460",
+    "northing": "402499",
+    "tiploc": "LN",
+    "crs": "LRT",
+    "code3": "LARNET"
+  },
+  "Lisburn": {
+    "name": "Lisburn",
+    "original_id": "3044C3",
+    "type": "R",
+    "easting": "326581",
+    "northing": "364591",
+    "tiploc": "LB",
+    "crs": "LIS",
+    "code3": "LBURN"
+  },
+  "Londonderry": {
+    "name": "Londonderry",
+    "original_id": "3044C8",
+    "type": "R",
+    "easting": "243932",
+    "northing": "416219",
+    "tiploc": "LY",
+    "crs": "LDY",
+    "code3": "LDRY"
+  },
+  "Lurgan": {
+    "name": "Lurgan",
+    "original_id": "3044C7",
+    "type": "R",
+    "easting": "307838",
+    "northing": "358928",
+    "tiploc": "LU",
+    "crs": "LUR",
+    "code3": "LURGN"
+  },
+  "Magheramorne": {
+    "name": "Magheramorne",
+    "original_id": "3044C9",
+    "type": "R",
+    "easting": "343608",
+    "northing": "398706",
+    "tiploc": "MM",
+    "crs": "MAG",
+    "code3": "MGRAMN"
+  },
+  "Marino": {
+    "name": "Marino",
+    "original_id": "3044CA",
+    "type": "R",
+    "easting": "340901",
+    "northing": "379815",
+    "tiploc": "MO",
+    "crs": "MAR",
+    "code3": "MARINO"
+  },
+  "Moira": {
+    "name": "Moira",
+    "original_id": "3045CB",
+    "type": "R",
+    "easting": "315819",
+    "northing": "361885",
+    "tiploc": "MR",
+    "crs": "MOI",
+    "code3": "MOIRA"
+  },
+  "Mossley West": {
+    "name": "Mossley West",
+    "original_id": "3045CC",
+    "type": "R",
+    "easting": "332106",
+    "northing": "385119",
+    "tiploc": "MW",
+    "crs": "MOW",
+    "code3": "MOSLYWS"
+  },
+  "Newry": {
+    "name": "Newry",
+    "original_id": "3045CD",
+    "type": "R",
+    "easting": "306933",
+    "northing": "327830",
+    "tiploc": "NY",
+    "crs": "NRY",
+    "code3": "NEWRY"
+  },
+  "Portadown": {
+    "name": "Portadown",
+    "original_id": "3045CE",
+    "type": "R",
+    "easting": "301113",
+    "northing": "354192",
+    "tiploc": "PD",
+    "crs": "POR",
+    "code3": "PDOWN"
+  },
+  "Portrush": {
+    "name": "Portrush",
+    "original_id": "3045CF",
+    "type": "R",
+    "easting": "285768",
+    "northing": "440418",
+    "tiploc": "PH",
+    "crs": "PRH",
+    "code3": "PRSH"
+  },
+  "Poyntzpass": {
+    "name": "Poyntzpass",
+    "original_id": "3045D0",
+    "type": "R",
+    "easting": "306049",
+    "northing": "339455",
+    "tiploc": "PS",
+    "crs": "PZP",
+    "code3": "PPASS"
+  },
+  "Scarva": {
+    "name": "Scarva",
+    "original_id": "3045D1",
+    "type": "R",
+    "easting": "306367",
+    "northing": "343842",
+    "tiploc": "SV",
+    "crs": "SCA",
+    "code3": "SCARVA"
+  },
+  "Seahill": {
+    "name": "Seahill",
+    "original_id": "3045D2",
+    "type": "R",
+    "easting": "344061",
+    "northing": "381462",
+    "tiploc": "SL",
+    "crs": "SEA",
+    "code3": "SEAHILL"
+  },
+  "Sydenham": {
+    "name": "Sydenham",
+    "original_id": "3045D3",
+    "type": "R",
+    "easting": "336625",
+    "northing": "375090",
+    "tiploc": "SY",
+    "crs": "SYD",
+    "code3": "SYDNHM"
+  },
+  "Titanic Quarter": {
+    "name": "Titanic Quarter",
+    "original_id": "3042A4",
+    "type": "R",
+    "easting": "335340",
+    "northing": "374643",
+    "tiploc": "BE",
+    "crs": "BRI",
+    "code3": "BRGEND"
+  },
+  "Trooperslane": {
+    "name": "Trooperslane",
+    "original_id": "3045D4",
+    "type": "R",
+    "easting": "338702",
+    "northing": "386846",
+    "tiploc": "TE",
+    "crs": "TRO",
+    "code3": "TPRSLNE"
+  },
+  "University": {
+    "name": "University",
+    "original_id": "3045D5",
+    "type": "R",
+    "easting": "284954",
+    "northing": "434499",
+    "tiploc": "UV",
+    "crs": "UNI",
+    "code3": "UNIVER"
+  },
+  "Whiteabbey": {
+    "name": "Whiteabbey",
+    "original_id": "3045D7",
+    "type": "R",
+    "easting": "335239",
+    "northing": "382491",
+    "tiploc": "WY",
+    "crs": "WHA",
+    "code3": "WHTABY"
+  },
+  "Whitehead": {
+    "name": "Whitehead",
+    "original_id": "3045D6",
+    "type": "R",
+    "easting": "347510",
+    "northing": "391838",
+    "tiploc": "WD",
+    "crs": "WHD",
+    "code3": "WHTEHED"
+  },
+  "Yorkgate": {
+    "name": "Yorkgate",
+    "original_id": "3045D8",
+    "type": "R",
+    "easting": "334254",
+    "northing": "375736",
+    "tiploc": "YG",
+    "crs": "YKG",
+    "code3": "YRKGATE"
+  }
+}
