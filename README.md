@@ -37,7 +37,7 @@ The location's CRS code as provided by the [Translink Real Time Rail Stations Ar
 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures)
 
 `real_time_id`
-A code used to identify the location for the [Translink Real Time Rail Stations Arrivals and 37 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures).
+A code used to identify the location for the [Translink Real Time Rail Stations Arrivals and Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures).
 
 `timetable_id`
 An id used to reference the location in the [Translink Northern Ireland

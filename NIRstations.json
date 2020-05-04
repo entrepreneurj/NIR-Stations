@@ -311,7 +311,7 @@
     "timetable_id": "CP",
     "type": "R"
   },
-  "Coleraie Fuel Siding": {
+  "Coleraine Fuel Siding": {
     "_ids": [
       "CESD",
       "CFS",
@@ -319,7 +319,7 @@
       "CD"
     ],
     "easting": "",
-    "name": "Coleraie Fuel Siding",
+    "name": "Coleraine Fuel Siding",
     "northing": "",
     "real_time_crs": "",
     "real_time_id": "",
