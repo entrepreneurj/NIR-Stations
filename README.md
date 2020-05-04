@@ -1,4 +1,4 @@
-#NIR
+# NIR
 
 ### Introduction
 
@@ -36,6 +36,7 @@ National Grid reference system.
 The location's CRS code as provided by the [Translink Real Time Rail Stations Arrivals and
 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures)
 
+<<<<<<< HEAD
 `real_time_id`
 A code used to identify the location for the [Translink Real Time Rail Stations Arrivals and 37 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures).
 
@@ -45,3 +46,9 @@ Rail Timetable](https://www.opendatani.gov.uk/dataset/nir20160126v2).
 
 
 
+=======
+## Issues
+- There seem to be differences between the CRS codes from the locations
+  data provided by Translink for the rail timetable system (used in this
+repository) and the codes used as part of the Real Time API.
+>>>>>>> 9cc9094865b610e6a2dd5ef50e04a1d77e9bdcb4
