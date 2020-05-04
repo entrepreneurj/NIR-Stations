@@ -36,7 +36,6 @@ National Grid reference system.
 The location's CRS code as provided by the [Translink Real Time Rail Stations Arrivals and
 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures)
 
-<<<<<<< HEAD
 `real_time_id`
 A code used to identify the location for the [Translink Real Time Rail Stations Arrivals and 37 Departures API](https://www.opendatani.gov.uk/dataset/real-time-rail-stations-arrivals-and-departures).
 
@@ -46,9 +45,17 @@ Rail Timetable](https://www.opendatani.gov.uk/dataset/nir20160126v2).
 
 
 
-=======
-## Issues
-- There seem to be differences between the CRS codes from the locations
-  data provided by Translink for the rail timetable system (used in this
-repository) and the codes used as part of the Real Time API.
->>>>>>> 9cc9094865b610e6a2dd5ef50e04a1d77e9bdcb4
+
+### Issues
+- There seem to be differences between the CRS codes from the "station
+  and junctions" data source for the timetable data, and the real time
+API.
+-- The real_time API crs codes have been highlighted separately in each
+location object, while any other three-letter codes/CRS codes remain in
+the _ids field of each object.
+
+- Some junctions and sidings are not mentioned in official data sources,
+  but are used in the timetable data. Some of these have been identified
+using other sources, but others (named Uknown Depot #) have not been.
+-- These may relate to the Fortwilliam and York Road Depots.
+

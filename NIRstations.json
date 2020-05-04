@@ -1,1201 +1,1255 @@
 {
-    "Adelaide": {
-        "_ids": [
-            "ADLDE",
-            "AD",
-            "3042A0",
-            "ADE"
-        ],
-        "easting": "332254",
-        "name": "Adelaide",
-        "northing": "371972",
-        "real_time_crs": "ADA",
-        "real_time_id": "3042A0",
-        "timetable_id": "AD",
-        "type": "R"
-    },
-    "Antrim": {
-        "_ids": [
-            "ANT",
-            "ANTRIM",
-            "AN",
-            "3042A1"
-        ],
-        "easting": "315325",
-        "name": "Antrim",
-        "northing": "386992",
-        "real_time_crs": "ANA",
-        "real_time_id": "3042A1",
-        "timetable_id": "AN",
-        "type": "R"
-    },
-    "Balbriggan": {
-        "_ids": [
-            "BB",
-            "BBRGN"
-        ],
-        "easting": "",
-        "name": "Balbriggan",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "BB",
-        "type": "other"
-    },
-    "Ballycarry": {
-        "_ids": [
-            "BC",
-            "BCY",
-            "BLYCRY",
-            "3042A3"
-        ],
-        "easting": "346402",
-        "name": "Ballycarry",
-        "northing": "394455",
-        "real_time_crs": "BCA",
-        "real_time_id": "3042A3",
-        "timetable_id": "BC",
-        "type": "R"
-    },
-    "Ballymena": {
-        "_ids": [
-            "BA",
-            "BALLYMA",
-            "BAM",
-            "3042A2"
-        ],
-        "easting": "310166",
-        "name": "Ballymena",
-        "northing": "403192",
-        "real_time_crs": "BAA",
-        "real_time_id": "3042A2",
-        "timetable_id": "BA",
-        "type": "R"
-    },
-    "Ballymoney": {
-        "_ids": [
-            "BALLYMY",
-            "3042AA",
-            "BY",
-            "BMY"
-        ],
-        "easting": "294987",
-        "name": "Ballymoney",
-        "northing": "425348",
-        "real_time_crs": "BYA",
-        "real_time_id": "3042AA",
-        "timetable_id": "BY",
-        "type": "R"
-    },
-    "Balmoral": {
-        "_ids": [
-            "BL",
-            "BAL",
-            "BALMRL",
-            "3042A5"
-        ],
-        "easting": "331456",
-        "name": "Balmoral",
-        "northing": "370851",
-        "real_time_crs": "BLA",
-        "real_time_id": "3042A5",
-        "timetable_id": "BL",
-        "type": "R"
-    },
-    "Bangor": {
-        "_ids": [
-            "BGS",
-            "BR",
-            "BANGOR",
-            "3042A7"
-        ],
-        "easting": "350263",
-        "name": "Bangor",
-        "northing": "381415",
-        "real_time_crs": "BRA",
-        "real_time_id": "3042A7",
-        "timetable_id": "BR",
-        "type": "I"
-    },
-    "Bangor West": {
-        "_ids": [
-            "BW",
-            "BANGORW",
-            "3042A9",
-            "BGW"
-        ],
-        "easting": "348922",
-        "name": "Bangor West",
-        "northing": "381489",
-        "real_time_crs": "BWA",
-        "real_time_id": "3042A9",
-        "timetable_id": "BW",
-        "type": "R"
-    },
-    "Belfast Central": {
-        "_ids": [
-            "BFC",
-            "BFSTC",
-            "3043AF",
-            "CL"
-        ],
-        "easting": "334663",
-        "name": "Belfast Central",
-        "northing": "373896",
-        "real_time_crs": "CLA",
-        "real_time_id": "3043AF",
-        "timetable_id": "CL",
-        "type": "R"
-    },
-    "Bellarena": {
-        "_ids": [
-            "BN",
-            "BEL",
-            "BELARNA",
-            "3042A6"
-        ],
-        "easting": "266870",
-        "name": "Bellarena",
-        "northing": "431503",
-        "real_time_crs": "BNA",
-        "real_time_id": "3042A6",
-        "timetable_id": "BN",
-        "type": "R"
-    },
-    "Bleach Green Junction": {
-        "_ids": [
-            "BLCHGRN",
-            "BG",
-            "BGJ"
-        ],
-        "easting": "",
-        "name": "Bleach Green Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "BG",
-        "type": "other"
-    },
-    "Botanic": {
-        "_ids": [
-            "BOTNIC",
-            "BT",
-            "3042A8",
-            "BOT"
-        ],
-        "easting": "333670",
-        "name": "Botanic",
-        "northing": "373093",
-        "real_time_crs": "BTA",
-        "real_time_id": "3042A8",
-        "timetable_id": "BT",
-        "type": "R"
-    },
-    "Carnalea": {
-        "_ids": [
-            "CAR",
-            "3042AB",
-            "CARNLEA",
-            "CA"
-        ],
-        "easting": "348063",
-        "name": "Carnalea",
-        "northing": "382183",
-        "real_time_crs": "CAA",
-        "real_time_id": "3042AB",
-        "timetable_id": "CA",
-        "type": "R"
-    },
-    "Carrickfergus": {
-        "_ids": [
-            "CFS",
-            "3043B1",
-            "CS",
-            "CRKFGUS"
-        ],
-        "easting": "341200",
-        "name": "Carrickfergus",
-        "northing": "387704",
-        "real_time_crs": "CSA",
-        "real_time_id": "3043B1",
-        "timetable_id": "CS",
-        "type": "R"
-    },
-    "Castlerock": {
-        "_ids": [
-            "3042AE",
-            "CK",
-            "CAS",
-            "CASTRCK"
-        ],
-        "easting": "277353",
-        "name": "Castlerock",
-        "northing": "435978",
-        "real_time_crs": "CKA",
-        "real_time_id": "3042AE",
-        "timetable_id": "CK",
-        "type": "R"
-    },
-    "Central Junction": {
-        "_ids": [
-            "CLJ",
-            "CJ",
-            "CENTJ"
-        ],
-        "easting": "",
-        "name": "Central Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "CJ",
-        "type": "other"
-    },
-    "City Hospital": {
-        "_ids": [
-            "CH",
-            "CYH",
-            "CITYHSP",
-            "3042AD"
-        ],
-        "easting": "333163",
-        "name": "City Hospital",
-        "northing": "373131",
-        "real_time_crs": "CHA",
-        "real_time_id": "3042AD",
-        "timetable_id": "CH",
-        "type": "R"
-    },
-    "City Junction": {
-        "_ids": [
-            "CITYJ",
-            "CJ      ",
-            "YJ",
-            "CYJ"
-        ],
-        "easting": "",
-        "name": "City Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "YJ",
-        "type": "other"
-    },
-    "Clipperstown": {
-        "_ids": [
-            "CPRSTWN",
-            "CP",
-            "3043B0",
-            "CLT"
-        ],
-        "easting": "340755",
-        "name": "Clipperstown",
-        "northing": "387682",
-        "real_time_crs": "CPA",
-        "real_time_id": "3043B0",
-        "timetable_id": "CP",
-        "type": "R"
-    },
-    "Coleraine Fuel Siding": {
-        "_ids": [
-            "CESD",
-            "CFS",
-            "CESDG",
-            "CD"
-        ],
-        "easting": "",
-        "name": "Coleraie Fuel Siding",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "CESD",
-        "type": "other"
-    },
-    "Coleraine": {
-        "_ids": [
-            "COLRAIN",
-            "CE",
-            "3042AC",
-            "COL"
-        ],
-        "easting": "285370",
-        "name": "Coleraine",
-        "northing": "432601",
-        "real_time_crs": "CEA",
-        "real_time_id": "3042AC",
-        "timetable_id": "CE",
-        "type": "I"
-    },
-    "Cullybackey": {
-        "_ids": [
-            "CY",
-            "CUL",
-            "CULYBAC",
-            "3043B3"
-        ],
-        "easting": "306295",
-        "name": "Cullybackey",
-        "northing": "405721",
-        "real_time_crs": "CYA",
-        "real_time_id": "3043B3",
-        "timetable_id": "CY",
-        "type": "R"
-    },
-    "Cultra": {
-        "_ids": [
-            "CT",
-            "CUA",
-            "3043B2",
-            "CULTRA"
-        ],
-        "easting": "341713",
-        "name": "Cultra",
-        "northing": "380465",
-        "real_time_crs": "CTA",
-        "real_time_id": "3043B2",
-        "timetable_id": "CT",
-        "type": "R"
-    },
-    "Derriaghy": {
-        "_ids": [
-            "DER",
-            "3043B5",
-            "DERGHY",
-            "DH"
-        ],
-        "easting": "328318",
-        "name": "Derriaghy",
-        "northing": "367752",
-        "real_time_crs": "DHA",
-        "real_time_id": "3043B5",
-        "timetable_id": "DH",
-        "type": "R"
-    },
-    "Dhu Varren": {
-        "_ids": [
-            "DV",
-            "3043BA",
-            "DHV",
-            "DHUVARR"
-        ],
-        "easting": "285302",
-        "name": "Dhu Varren",
-        "northing": "439608",
-        "real_time_crs": "DVA",
-        "real_time_id": "3043BA",
-        "timetable_id": "DV",
-        "type": "R"
-    },
-    "Donegall Quay Loop": {
-        "_ids": [
-            "DNEGALQ",
-            "DQ",
-            "DQL"
-        ],
-        "easting": "",
-        "name": "Donegall Quay Loop",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "DQ",
-        "type": "other"
-    },
-    "Downshire": {
-        "_ids": [
-            "DOWNSHR",
-            "3043B9",
-            "DP",
-            "DNS"
-        ],
-        "easting": "342459",
-        "name": "Downshire",
-        "northing": "388145",
-        "real_time_crs": "DPA",
-        "real_time_id": "3043B9",
-        "timetable_id": "DP",
-        "type": "R"
-    },
-    "Drogheda": {
-        "_ids": [
-            "DG",
-            "3043B4",
-            "DGHDA",
-            "DGA"
-        ],
-        "easting": "114030.442",
-        "name": "Drogheda",
-        "northing": "432684.083",
-        "real_time_crs": "DGA",
-        "real_time_id": "3043B4",
-        "timetable_id": "DG",
-        "type": "R"
-    },
-    "Dublin Connolly": {
-        "_ids": [
-            "3043B8",
-            "CNLLY",
-            "DN",
-            "DNA"
-        ],
-        "easting": "117549.103",
-        "name": "Dublin Connolly",
-        "northing": "392429.995",
-        "real_time_crs": "DNA",
-        "real_time_id": "3043B8",
-        "timetable_id": "DN",
-        "type": "R"
-    },
-    "Dundalk": {
-        "_ids": [
-            "DK",
-            "3043B6",
-            "DKA",
-            "DDALK"
-        ],
-        "easting": "110917.496",
-        "name": "Dundalk",
-        "northing": "465091.421",
-        "real_time_crs": "DKA",
-        "real_time_id": "3043B6",
-        "timetable_id": "DK",
-        "type": "R"
-    },
-    "Dunmurry": {
-        "_ids": [
-            "DUNMRY",
-            "3043B7",
-            "DUN",
-            "DM"
-        ],
-        "easting": "329249",
-        "name": "Dunmurry",
-        "northing": "369061",
-        "real_time_crs": "DMA",
-        "real_time_id": "3043B7",
-        "timetable_id": "DM",
-        "type": "R"
-    },
-    "Finaghy": {
-        "_ids": [
-            "FINGHY",
-            "FY",
-            "3043BB",
-            "FIN"
-        ],
-        "easting": "330275",
-        "name": "Finaghy",
-        "northing": "370254",
-        "real_time_crs": "FYA",
-        "real_time_id": "3043BB",
-        "timetable_id": "FY",
-        "type": "R"
-    },
-    "Fortwilliam Depot": {
-        "_ids": [
-            "FTW",
-            "FW"
-        ],
-        "easting": "",
-        "name": "Fortwilliam Depot",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "",
-        "type": "other"
-    },
-    "Glynn": {
-        "_ids": [
-            "GLYNN",
-            "GN",
-            "3044BD",
-            "GLY"
-        ],
-        "easting": "340982",
-        "name": "Glynn",
-        "northing": "399919",
-        "real_time_crs": "GNA",
-        "real_time_id": "3044BD",
-        "timetable_id": "GN",
-        "type": "R"
-    },
-    "Great Victoria St": {
-        "_ids": [
-            "GVS",
-            "GV",
-            "3044BE"
-        ],
-        "easting": "333444",
-        "name": "Great Victoria St",
-        "northing": "373777",
-        "real_time_crs": "GVA",
-        "real_time_id": "3044BE",
-        "timetable_id": "GV",
-        "type": "I"
-    },
-    "Greenisland": {
-        "_ids": [
-            "3043BC",
-            "GNI",
-            "GRNLND",
-            "GD"
-        ],
-        "easting": "337168",
-        "name": "Greenisland",
-        "northing": "385650",
-        "real_time_crs": "GDA",
-        "real_time_id": "3043BC",
-        "timetable_id": "GD",
-        "type": "R"
-    },
-    "Helen's Bay": {
-        "_ids": [
-            "HB",
-            "3044BF",
-            "HELNSBY",
-            "HEL"
-        ],
-        "easting": "345785",
-        "name": "Helen's Bay",
-        "northing": "382163",
-        "real_time_crs": "HBA",
-        "real_time_id": "3044BF",
-        "timetable_id": "HB",
-        "type": "R"
-    },
-    "Hilden": {
-        "_ids": [
-            "HILDEN",
-            "3044C0",
-            "HIL",
-            "HD"
-        ],
-        "easting": "327651",
-        "name": "Hilden",
-        "northing": "365560",
-        "real_time_crs": "HDA",
-        "real_time_id": "3044C0",
-        "timetable_id": "HD",
-        "type": "R"
-    },
-    "Holywood": {
-        "_ids": [
-            "HOL",
-            "HW",
-            "3044C1",
-            "HOLYWD"
-        ],
-        "easting": "339566",
-        "name": "Holywood",
-        "northing": "379167",
-        "real_time_crs": "HWA",
-        "real_time_id": "3044C1",
-        "timetable_id": "HW",
-        "type": "R"
-    },
-    "Howth Junction": {
-        "_ids": [
-            "HJ"
-        ],
-        "easting": "",
-        "name": "Howth Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "HJ",
-        "type": "other"
-    },
-    "Jordanstown": {
-        "_ids": [
-            "JN",
-            "3044C2",
-            "JDNSTWN",
-            "JNT"
-        ],
-        "easting": "335802",
-        "name": "Jordanstown",
-        "northing": "384164",
-        "real_time_crs": "JNA",
-        "real_time_id": "3044C2",
-        "timetable_id": "JN",
-        "type": "R"
-    },
-    "Killagan": {
-        "_ids": [
-            "KN",
-            "KIN",
-            "KILAGAN"
-        ],
-        "easting": "",
-        "name": "Killagan",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "KN",
-        "type": "other"
-    },
-    "Kilroot": {
-        "_ids": [
-            "KT",
-            "KLROOT",
-            "KIL"
-        ],
-        "easting": "",
-        "name": "Kilroot",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "KT",
-        "type": "other"
-    },
-    "Lagan Junction": {
-        "_ids": [
-            "LAGANJ",
-            "LAJ",
-            "LJ"
-        ],
-        "easting": "",
-        "name": "Lagan Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "LJ",
-        "type": "other"
-    },
-    "Lambeg": {
-        "_ids": [
-            "LAMBEG",
-            "LG",
-            "3044C4",
-            "LAM"
-        ],
-        "easting": "327616",
-        "name": "Lambeg",
-        "northing": "366385",
-        "real_time_crs": "LGA",
-        "real_time_id": "3044C4",
-        "timetable_id": "LG",
-        "type": "R"
-    },
-    "Larne Harbour": {
-        "_ids": [
-            "LARNEHB",
-            "3044C6",
-            "LR",
-            "LRH"
-        ],
-        "easting": "341523",
-        "name": "Larne Harbour",
-        "northing": "402231",
-        "real_time_crs": "LRA",
-        "real_time_id": "3044C6",
-        "timetable_id": "LR",
-        "type": "R"
-    },
-    "Larne Town": {
-        "_ids": [
-            "LARNET",
-            "LRT",
-            "3044C5",
-            "LN"
-        ],
-        "easting": "340460",
-        "name": "Larne Town",
-        "northing": "402499",
-        "real_time_crs": "LNA",
-        "real_time_id": "3044C5",
-        "timetable_id": "LN",
-        "type": "R"
-    },
-    "Lisburn": {
-        "_ids": [
-            "3044C3",
-            "LBURN",
-            "LIS",
-            "LB"
-        ],
-        "easting": "326581",
-        "name": "Lisburn",
-        "northing": "364591",
-        "real_time_crs": "LBA",
-        "real_time_id": "3044C3",
-        "timetable_id": "LB",
-        "type": "R"
-    },
-    "Londonderry": {
-        "_ids": [
-            "LDRY",
-            "LDY",
-            "3044C8",
-            "LY"
-        ],
-        "easting": "243932",
-        "name": "Londonderry",
-        "northing": "416219",
-        "real_time_crs": "LYA",
-        "real_time_id": "3044C8",
-        "timetable_id": "LY",
-        "type": "R"
-    },
-    "Lurgan": {
-        "_ids": [
-            "LURGN",
-            "LUR",
-            "LU",
-            "3044C7"
-        ],
-        "easting": "307838",
-        "name": "Lurgan",
-        "northing": "358928",
-        "real_time_crs": "LUA",
-        "real_time_id": "3044C7",
-        "timetable_id": "LU",
-        "type": "R"
-    },
-    "Magherabeg": {
-        "_ids": [
-            "MG",
-            "MAGBEG",
-            "MHG"
-        ],
-        "easting": "",
-        "name": "Magherabeg",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "MG",
-        "type": "other"
-    },
-    "Magheramorne": {
-        "_ids": [
-            "MM",
-            "MGRAMN",
-            "MAG",
-            "3044C9"
-        ],
-        "easting": "343608",
-        "name": "Magheramorne",
-        "northing": "398706",
-        "real_time_crs": "MMA",
-        "real_time_id": "3044C9",
-        "timetable_id": "MM",
-        "type": "R"
-    },
-    "Magheramorne Loop": {
-        "_ids": [
-            "MMLOOP",
-            "MM     2",
-            "MAGL",
-            "MP"
-        ],
-        "easting": "",
-        "name": "Magheramorne Loop",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "MP",
-        "type": "other"
-    },
-    "Malahide": {
-        "_ids": [
-            "MHIDE",
-            "MH"
-        ],
-        "easting": "",
-        "name": "Malahide",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "MH",
-        "type": "other"
-    },
-    "Marino": {
-        "_ids": [
-            "MAR",
-            "MO",
-            "MARINO",
-            "3044CA"
-        ],
-        "easting": "340901",
-        "name": "Marino",
-        "northing": "379815",
-        "real_time_crs": "MOA",
-        "real_time_id": "3044CA",
-        "timetable_id": "MO",
-        "type": "R"
-    },
-    "Moira": {
-        "_ids": [
-            "MR",
-            "3045CB",
-            "MOIRA",
-            "MOI"
-        ],
-        "easting": "315819",
-        "name": "Moira",
-        "northing": "361885",
-        "real_time_crs": "MRA",
-        "real_time_id": "3045CB",
-        "timetable_id": "MR",
-        "type": "R"
-    },
-    "Monkstown Junction": {
-        "_ids": [
-            "MONKSTN",
-            "MTJ",
-            "MN"
-        ],
-        "easting": "",
-        "name": "Monkstown Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "MN",
-        "type": "other"
-    },
-    "Mosney": {
-        "_ids": [
-            "MSNEY",
-            "MS",
-            "MY",
-            "???"
-        ],
-        "easting": "",
-        "name": "Mosney",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "MS",
-        "type": "other"
-    },
-    "Mossley West": {
-        "_ids": [
-            "MW",
-            "MOSLYWS",
-            "MOW",
-            "3045CC"
-        ],
-        "easting": "332106",
-        "name": "Mossley West",
-        "northing": "385119",
-        "real_time_crs": "MWA",
-        "real_time_id": "3045CC",
-        "timetable_id": "MW",
-        "type": "R"
-    },
-    "Newry": {
-        "_ids": [
-            "NEWRY",
-            "NRY",
-            "NY",
-            "3045CD"
-        ],
-        "easting": "306933",
-        "name": "Newry",
-        "northing": "327830",
-        "real_time_crs": "NYA",
-        "real_time_id": "3045CD",
-        "timetable_id": "NY",
-        "type": "R"
-    },
-    "Portadown": {
-        "_ids": [
-            "POR",
-            "3045CE",
-            "PD",
-            "PDOWN"
-        ],
-        "easting": "301113",
-        "name": "Portadown",
-        "northing": "354192",
-        "real_time_crs": "PDA",
-        "real_time_id": "3045CE",
-        "timetable_id": "PD",
-        "type": "R"
-    },
-    "Portrush": {
-        "_ids": [
-            "PH",
-            "PRH",
-            "PRSH",
-            "3045CF"
-        ],
-        "easting": "285768",
-        "name": "Portrush",
-        "northing": "440418",
-        "real_time_crs": "PHA",
-        "real_time_id": "3045CF",
-        "timetable_id": "PH",
-        "type": "R"
-    },
-    "Poyntzpass": {
-        "_ids": [
-            "PS",
-            "PZP",
-            "3045D0",
-            "PPASS"
-        ],
-        "easting": "306049",
-        "name": "Poyntzpass",
-        "northing": "339455",
-        "real_time_crs": "PSA",
-        "real_time_id": "3045D0",
-        "timetable_id": "PS",
-        "type": "R"
-    },
-    "Scarva": {
-        "_ids": [
-            "SA",
-            "SCARVA",
-            "3045D1",
-            "SV",
-            "SCA"
-        ],
-        "easting": "306367",
-        "name": "Scarva",
-        "northing": "343842",
-        "real_time_crs": "SAA",
-        "real_time_id": "3045D1",
-        "timetable_id": "SA",
-        "type": "R"
-    },
-    "Seahill": {
-        "_ids": [
-            "SEAHILL",
-            "SL",
-            "SEA",
-            "3045D2"
-        ],
-        "easting": "344061",
-        "name": "Seahill",
-        "northing": "381462",
-        "real_time_crs": "SLA",
-        "real_time_id": "3045D2",
-        "timetable_id": "SL",
-        "type": "R"
-    },
-    "Skerries": {
-        "_ids": [
-            "SKA",
-            "SK",
-            "SKRES"
-        ],
-        "easting": "",
-        "name": "Skerries",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "SKA",
-        "type": "other"
-    },
-    "Sydenham": {
-        "_ids": [
-            "SY",
-            "SYD",
-            "3045D3",
-            "SYDNHM"
-        ],
-        "easting": "336625",
-        "name": "Sydenham",
-        "northing": "375090",
-        "real_time_crs": "SYA",
-        "real_time_id": "3045D3",
-        "timetable_id": "SY",
-        "type": "R"
-    },
-    "Templepatrick": {
-        "_ids": [
-            "TMP",
-            "TEMPLEP",
-            "TP",
-            "TK"
-        ],
-        "easting": "",
-        "name": "Templepatrick",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "TK",
-        "type": "other"
-    },
-    "Titanic Quarter": {
-        "_ids": [
-            "3042A4",
-            "BRI",
-            "BE",
-            "BRGEND"
-        ],
-        "easting": "335340",
-        "name": "Titanic Quarter",
-        "northing": "374643",
-        "real_time_crs": "BEA",
-        "real_time_id": "3042A4",
-        "timetable_id": "BE",
-        "type": "R"
-    },
-    "Trooperslane": {
-        "_ids": [
-            "TRO",
-            "TPRSLNE",
-            "TE",
-            "3045D4"
-        ],
-        "easting": "338702",
-        "name": "Trooperslane",
-        "northing": "386846",
-        "real_time_crs": "TEA",
-        "real_time_id": "3045D4",
-        "timetable_id": "TE",
-        "type": "R"
-    },
-    "University": {
-        "_ids": [
-            "UV",
-            "UNI",
-            "3045D5",
-            "UNIVER"
-        ],
-        "easting": "284954",
-        "name": "University",
-        "northing": "434499",
-        "real_time_crs": "UVA",
-        "real_time_id": "3045D5",
-        "timetable_id": "UV",
-        "type": "R"
-    },
-    "Unknown Depot 1": {
-        "_ids": [
-            "AM"
-        ],
-        "easting": "",
-        "name": "Unknown Depot 1",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "AM",
-        "type": "other"
-    },
-    "Unknown Depot 2": {
-        "_ids": [
-            "FWD"
-        ],
-        "easting": "",
-        "name": "Unknown Depot 2",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "FWD",
-        "type": "other"
-    },
-    "Unknown Depot 3": {
-        "_ids": [
-            "YD"
-        ],
-        "easting": "",
-        "name": "Unknown Depot 3",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "YD",
-        "type": "other"
-    },
-    "Westlink Junction": {
-        "_ids": [
-            "WESTLKJ",
-            "WLJ",
-            "WESTLKJ ",
-            "WJ"
-        ],
-        "easting": "",
-        "name": "Westlink Junction",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "WJ",
-        "type": "other"
-    },
-    "Westlink Junction 2": {
-        "_ids": [
-            "WJ     2",
-            "WJ"
-        ],
-        "easting": "",
-        "name": "Westlink Junction 2",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "WJ",
-        "type": "other"
-    },
-    "Whiteabbey": {
-        "_ids": [
-            "3045D7",
-            "WHTABY",
-            "WHA",
-            "WY",
-            "WA"
-        ],
-        "easting": "335239",
-        "name": "Whiteabbey",
-        "northing": "382491",
-        "real_time_crs": "WYA",
-        "real_time_id": "3045D7",
-        "timetable_id": "WY",
-        "type": "R"
-    },
-    "Whitehead": {
-        "_ids": [
-            "3045D6",
-            "WD",
-            "WHD",
-            "WHTEHED"
-        ],
-        "easting": "347510",
-        "name": "Whitehead",
-        "northing": "391838",
-        "real_time_crs": "WDA",
-        "real_time_id": "3045D6",
-        "timetable_id": "WD",
-        "type": "R"
-    },
-    "Whitehead RPSI Siding": {
-        "_ids": [
-            "WHS",
-            "RP",
-            "WDRPSI",
-            "RPSI"
-        ],
-        "easting": "",
-        "name": "Whitehead RPSI Siding",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "RPSI",
-        "type": "other"
-    },
-    "York Road Depot": {
-        "_ids": [
-            "YRD"
-        ],
-        "easting": "",
-        "name": "York Road Depot",
-        "northing": "",
-        "real_time_crs": "",
-        "real_time_id": "",
-        "timetable_id": "",
-        "type": "other"
-    },
-    "Yorkgate": {
-        "_ids": [
-            "YRKGATE",
-            "YKG",
-            "YG",
-            "3045D8"
-        ],
-        "easting": "334254",
-        "name": "Yorkgate",
-        "northing": "375736",
-        "real_time_crs": "YGA",
-        "real_time_id": "3045D8",
-        "timetable_id": "YG",
-        "type": "R"
-    }
+  "Adelaide": {
+    "_ids": [
+      "ADE",
+      "ADA",
+      "3042A0",
+      "AD",
+      "ADLDE"
+    ],
+    "easting": "332254",
+    "name": "Adelaide",
+    "northing": "371972",
+    "real_time_crs": "ADA",
+    "real_time_id": "3042A0",
+    "timetable_id": "AD",
+    "type": "R"
+  },
+  "Antrim": {
+    "_ids": [
+      "ANT",
+      "ANTRIM",
+      "AN",
+      "ANA",
+      "3042A1"
+    ],
+    "easting": "315325",
+    "name": "Antrim",
+    "northing": "386992",
+    "real_time_crs": "ANA",
+    "real_time_id": "3042A1",
+    "timetable_id": "AN",
+    "type": "R"
+  },
+  "Balbriggan": {
+    "_ids": [
+      "BB",
+      "BBRGN"
+    ],
+    "easting": "",
+    "name": "Balbriggan",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "BB",
+    "type": "other"
+  },
+  "Ballycarry": {
+    "_ids": [
+      "BCY",
+      "3042A3",
+      "BC",
+      "BCA",
+      "BLYCRY"
+    ],
+    "easting": "346402",
+    "name": "Ballycarry",
+    "northing": "394455",
+    "real_time_crs": "BCA",
+    "real_time_id": "3042A3",
+    "timetable_id": "BC",
+    "type": "R"
+  },
+  "Ballymena": {
+    "_ids": [
+      "3042A2",
+      "BAA",
+      "BA",
+      "BALLYMA",
+      "BAM"
+    ],
+    "easting": "310166",
+    "name": "Ballymena",
+    "northing": "403192",
+    "real_time_crs": "BAA",
+    "real_time_id": "3042A2",
+    "timetable_id": "BA",
+    "type": "R"
+  },
+  "Ballymoney": {
+    "_ids": [
+      "BMY",
+      "BALLYMY",
+      "BY",
+      "3042AA",
+      "BYA"
+    ],
+    "easting": "294987",
+    "name": "Ballymoney",
+    "northing": "425348",
+    "real_time_crs": "BYA",
+    "real_time_id": "3042AA",
+    "timetable_id": "BY",
+    "type": "R"
+  },
+  "Balmoral": {
+    "_ids": [
+      "BLA",
+      "BAL",
+      "BALMRL",
+      "BL",
+      "3042A5"
+    ],
+    "easting": "331456",
+    "name": "Balmoral",
+    "northing": "370851",
+    "real_time_crs": "BLA",
+    "real_time_id": "3042A5",
+    "timetable_id": "BL",
+    "type": "R"
+  },
+  "Bangor": {
+    "_ids": [
+      "BANGOR",
+      "3042A7",
+      "BR",
+      "BRA",
+      "BGS"
+    ],
+    "easting": "350263",
+    "name": "Bangor",
+    "northing": "381415",
+    "real_time_crs": "BRA",
+    "real_time_id": "3042A7",
+    "timetable_id": "BR",
+    "type": "I"
+  },
+  "Bangor West": {
+    "_ids": [
+      "BGW",
+      "3042A9",
+      "BANGORW",
+      "BW",
+      "BWA"
+    ],
+    "easting": "348922",
+    "name": "Bangor West",
+    "northing": "381489",
+    "real_time_crs": "BWA",
+    "real_time_id": "3042A9",
+    "timetable_id": "BW",
+    "type": "R"
+  },
+  "Belfast Central": {
+    "_ids": [
+      "3043AF",
+      "CLA",
+      "BFSTC",
+      "CL",
+      "BFC"
+    ],
+    "easting": "334663",
+    "name": "Belfast Central",
+    "northing": "373896",
+    "real_time_crs": "CLA",
+    "real_time_id": "3043AF",
+    "timetable_id": "CL",
+    "type": "R"
+  },
+  "Bellarena": {
+    "_ids": [
+      "BELARNA",
+      "BNA",
+      "BEL",
+      "3042A6",
+      "BN"
+    ],
+    "easting": "266870",
+    "name": "Bellarena",
+    "northing": "431503",
+    "real_time_crs": "BNA",
+    "real_time_id": "3042A6",
+    "timetable_id": "BN",
+    "type": "R"
+  },
+  "Bleach Green Junction": {
+    "_ids": [
+      "BLCHGRN",
+      "BG",
+      "BGJ"
+    ],
+    "easting": "",
+    "name": "Bleach Green Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "BG",
+    "type": "other"
+  },
+  "Botanic": {
+    "_ids": [
+      "BOT",
+      "BT",
+      "BOTNIC",
+      "3042A8",
+      "BTA"
+    ],
+    "easting": "333670",
+    "name": "Botanic",
+    "northing": "373093",
+    "real_time_crs": "BTA",
+    "real_time_id": "3042A8",
+    "timetable_id": "BT",
+    "type": "R"
+  },
+  "Carnalea": {
+    "_ids": [
+      "CAA",
+      "CA",
+      "3042AB",
+      "CAR",
+      "CARNLEA"
+    ],
+    "easting": "348063",
+    "name": "Carnalea",
+    "northing": "382183",
+    "real_time_crs": "CAA",
+    "real_time_id": "3042AB",
+    "timetable_id": "CA",
+    "type": "R"
+  },
+  "Carrickfergus": {
+    "_ids": [
+      "CSA",
+      "CRKFGUS",
+      "CS",
+      "3043B1",
+      "CFS"
+    ],
+    "easting": "341200",
+    "name": "Carrickfergus",
+    "northing": "387704",
+    "real_time_crs": "CSA",
+    "real_time_id": "3043B1",
+    "timetable_id": "CS",
+    "type": "R"
+  },
+  "Castlerock": {
+    "_ids": [
+      "CKA",
+      "CASTRCK",
+      "CAS",
+      "CK",
+      "3042AE"
+    ],
+    "easting": "277353",
+    "name": "Castlerock",
+    "northing": "435978",
+    "real_time_crs": "CKA",
+    "real_time_id": "3042AE",
+    "timetable_id": "CK",
+    "type": "R"
+  },
+  "Central Junction": {
+    "_ids": [
+      "CLJ",
+      "CJ",
+      "CENTJ"
+    ],
+    "easting": "",
+    "name": "Central Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "CJ",
+    "type": "other"
+  },
+  "City Hospital": {
+    "_ids": [
+      "CH",
+      "3042AD",
+      "CHA",
+      "CYH",
+      "CITYHSP"
+    ],
+    "easting": "333163",
+    "name": "City Hospital",
+    "northing": "373131",
+    "real_time_crs": "CHA",
+    "real_time_id": "3042AD",
+    "timetable_id": "CH",
+    "type": "R"
+  },
+  "City Junction": {
+    "_ids": [
+      "CITYJ",
+      "CJ      ",
+      "YJ",
+      "CYJ"
+    ],
+    "easting": "",
+    "name": "City Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "YJ",
+    "type": "other"
+  },
+  "Clipperstown": {
+    "_ids": [
+      "CPRSTWN",
+      "CP",
+      "CLT",
+      "3043B0",
+      "CPA"
+    ],
+    "easting": "340755",
+    "name": "Clipperstown",
+    "northing": "387682",
+    "real_time_crs": "CPA",
+    "real_time_id": "3043B0",
+    "timetable_id": "CP",
+    "type": "R"
+  },
+  "Coleraie Fuel Siding": {
+    "_ids": [
+      "CESD",
+      "CFS",
+      "CESDG",
+      "CD"
+    ],
+    "easting": "",
+    "name": "Coleraie Fuel Siding",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "CESD",
+    "type": "other"
+  },
+  "Coleraine": {
+    "_ids": [
+      "3042AC",
+      "COL",
+      "CEA",
+      "CE",
+      "COLRAIN"
+    ],
+    "easting": "285370",
+    "name": "Coleraine",
+    "northing": "432601",
+    "real_time_crs": "CEA",
+    "real_time_id": "3042AC",
+    "timetable_id": "CE",
+    "type": "I"
+  },
+  "Cullybackey": {
+    "_ids": [
+      "CY",
+      "CUL",
+      "CYA",
+      "CULYBAC",
+      "3043B3"
+    ],
+    "easting": "306295",
+    "name": "Cullybackey",
+    "northing": "405721",
+    "real_time_crs": "CYA",
+    "real_time_id": "3043B3",
+    "timetable_id": "CY",
+    "type": "R"
+  },
+  "Cultra": {
+    "_ids": [
+      "CTA",
+      "CT",
+      "CUA",
+      "CULTRA",
+      "3043B2"
+    ],
+    "easting": "341713",
+    "name": "Cultra",
+    "northing": "380465",
+    "real_time_crs": "CTA",
+    "real_time_id": "3043B2",
+    "timetable_id": "CT",
+    "type": "R"
+  },
+  "Derriaghy": {
+    "_ids": [
+      "DER",
+      "DH",
+      "3043B5",
+      "DERGHY",
+      "DHA"
+    ],
+    "easting": "328318",
+    "name": "Derriaghy",
+    "northing": "367752",
+    "real_time_crs": "DHA",
+    "real_time_id": "3043B5",
+    "timetable_id": "DH",
+    "type": "R"
+  },
+  "Dhu Varren": {
+    "_ids": [
+      "DHV",
+      "DVA",
+      "DV",
+      "3043BA",
+      "DHUVARR"
+    ],
+    "easting": "285302",
+    "name": "Dhu Varren",
+    "northing": "439608",
+    "real_time_crs": "DVA",
+    "real_time_id": "3043BA",
+    "timetable_id": "DV",
+    "type": "R"
+  },
+  "Donegall Quay Loop": {
+    "_ids": [
+      "DNEGALQ",
+      "DQ",
+      "DQL"
+    ],
+    "easting": "",
+    "name": "Donegall Quay Loop",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "DQ",
+    "type": "other"
+  },
+  "Downshire": {
+    "_ids": [
+      "DOWNSHR",
+      "3043B9",
+      "DNS",
+      "DPA",
+      "DP"
+    ],
+    "easting": "342459",
+    "name": "Downshire",
+    "northing": "388145",
+    "real_time_crs": "DPA",
+    "real_time_id": "3043B9",
+    "timetable_id": "DP",
+    "type": "R"
+  },
+  "Drogheda": {
+    "_ids": [
+      "DG",
+      "DGA",
+      "DGHDA",
+      "3043B4"
+    ],
+    "easting": "114030.442",
+    "name": "Drogheda",
+    "northing": "432684.083",
+    "real_time_crs": "DGA",
+    "real_time_id": "3043B4",
+    "timetable_id": "DG",
+    "type": "R"
+  },
+  "Dublin Connolly": {
+    "_ids": [
+      "CNLLY",
+      "DN",
+      "3043B8",
+      "DNA"
+    ],
+    "easting": "117549.103",
+    "name": "Dublin Connolly",
+    "northing": "392429.995",
+    "real_time_crs": "DNA",
+    "real_time_id": "3043B8",
+    "timetable_id": "DN",
+    "type": "R"
+  },
+  "Dundalk": {
+    "_ids": [
+      "DDALK",
+      "3043B6",
+      "DK",
+      "DKA"
+    ],
+    "easting": "110917.496",
+    "name": "Dundalk",
+    "northing": "465091.421",
+    "real_time_crs": "DKA",
+    "real_time_id": "3043B6",
+    "timetable_id": "DK",
+    "type": "R"
+  },
+  "Dunmurry": {
+    "_ids": [
+      "DUN",
+      "DUNMRY",
+      "3043B7",
+      "DMA",
+      "DM"
+    ],
+    "easting": "329249",
+    "name": "Dunmurry",
+    "northing": "369061",
+    "real_time_crs": "DMA",
+    "real_time_id": "3043B7",
+    "timetable_id": "DM",
+    "type": "R"
+  },
+  "Finaghy": {
+    "_ids": [
+      "FYA",
+      "3043BB",
+      "FY",
+      "FIN",
+      "FINGHY"
+    ],
+    "easting": "330275",
+    "name": "Finaghy",
+    "northing": "370254",
+    "real_time_crs": "FYA",
+    "real_time_id": "3043BB",
+    "timetable_id": "FY",
+    "type": "R"
+  },
+  "Fortwilliam Depot": {
+    "_ids": [
+      "FTW",
+      "FW"
+    ],
+    "easting": "",
+    "name": "Fortwilliam Depot",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "",
+    "type": "other"
+  },
+  "Glynn": {
+    "_ids": [
+      "3044BD",
+      "GLY",
+      "GNA",
+      "GN",
+      "GLYNN"
+    ],
+    "easting": "340982",
+    "name": "Glynn",
+    "northing": "399919",
+    "real_time_crs": "GNA",
+    "real_time_id": "3044BD",
+    "timetable_id": "GN",
+    "type": "R"
+  },
+  "Great Victoria St": {
+    "_ids": [
+      "3044BE",
+      "GVA",
+      "GVS",
+      "GV"
+    ],
+    "easting": "333444",
+    "name": "Great Victoria St",
+    "northing": "373777",
+    "real_time_crs": "GVA",
+    "real_time_id": "3044BE",
+    "timetable_id": "GV",
+    "type": "I"
+  },
+  "Greenisland": {
+    "_ids": [
+      "GRNLND",
+      "GNI",
+      "GDA",
+      "GD",
+      "3043BC"
+    ],
+    "easting": "337168",
+    "name": "Greenisland",
+    "northing": "385650",
+    "real_time_crs": "GDA",
+    "real_time_id": "3043BC",
+    "timetable_id": "GD",
+    "type": "R"
+  },
+  "Helen's Bay": {
+    "_ids": [
+      "HB",
+      "HEL",
+      "HELNSBY",
+      "HBA",
+      "3044BF"
+    ],
+    "easting": "345785",
+    "name": "Helen's Bay",
+    "northing": "382163",
+    "real_time_crs": "HBA",
+    "real_time_id": "3044BF",
+    "timetable_id": "HB",
+    "type": "R"
+  },
+  "Hilden": {
+    "_ids": [
+      "HIL",
+      "HILDEN",
+      "3044C0",
+      "HD",
+      "HDA"
+    ],
+    "easting": "327651",
+    "name": "Hilden",
+    "northing": "365560",
+    "real_time_crs": "HDA",
+    "real_time_id": "3044C0",
+    "timetable_id": "HD",
+    "type": "R"
+  },
+  "Holywood": {
+    "_ids": [
+      "HOL",
+      "3044C1",
+      "HOLYWD",
+      "HW",
+      "HWA"
+    ],
+    "easting": "339566",
+    "name": "Holywood",
+    "northing": "379167",
+    "real_time_crs": "HWA",
+    "real_time_id": "3044C1",
+    "timetable_id": "HW",
+    "type": "R"
+  },
+  "Howth Junction": {
+    "_ids": [
+      "HJ"
+    ],
+    "easting": "",
+    "name": "Howth Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "HJ",
+    "type": "other"
+  },
+  "Jordanstown": {
+    "_ids": [
+      "JNT",
+      "3044C2",
+      "JDNSTWN",
+      "JNA",
+      "JN"
+    ],
+    "easting": "335802",
+    "name": "Jordanstown",
+    "northing": "384164",
+    "real_time_crs": "JNA",
+    "real_time_id": "3044C2",
+    "timetable_id": "JN",
+    "type": "R"
+  },
+  "Killagan": {
+    "_ids": [
+      "KN",
+      "KIN",
+      "KILAGAN"
+    ],
+    "easting": "",
+    "name": "Killagan",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "KN",
+    "type": "other"
+  },
+  "Kilroot": {
+    "_ids": [
+      "KT",
+      "KLROOT",
+      "KIL"
+    ],
+    "easting": "",
+    "name": "Kilroot",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "KT",
+    "type": "other"
+  },
+  "Lagan Junction": {
+    "_ids": [
+      "LAGANJ",
+      "LAJ",
+      "LJ"
+    ],
+    "easting": "",
+    "name": "Lagan Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "LJ",
+    "type": "other"
+  },
+  "Lambeg": {
+    "_ids": [
+      "LAMBEG",
+      "LGA",
+      "3044C4",
+      "LAM",
+      "LG"
+    ],
+    "easting": "327616",
+    "name": "Lambeg",
+    "northing": "366385",
+    "real_time_crs": "LGA",
+    "real_time_id": "3044C4",
+    "timetable_id": "LG",
+    "type": "R"
+  },
+  "Larne Harbour": {
+    "_ids": [
+      "LR",
+      "LRH",
+      "LARNEHB",
+      "LRA",
+      "3044C6"
+    ],
+    "easting": "341523",
+    "name": "Larne Harbour",
+    "northing": "402231",
+    "real_time_crs": "LRA",
+    "real_time_id": "3044C6",
+    "timetable_id": "LR",
+    "type": "R"
+  },
+  "Larne Town": {
+    "_ids": [
+      "LRT",
+      "LARNET",
+      "3044C5",
+      "LN",
+      "LNA"
+    ],
+    "easting": "340460",
+    "name": "Larne Town",
+    "northing": "402499",
+    "real_time_crs": "LNA",
+    "real_time_id": "3044C5",
+    "timetable_id": "LN",
+    "type": "R"
+  },
+  "Lisburn": {
+    "_ids": [
+      "LB",
+      "3044C3",
+      "LIS",
+      "LBA",
+      "LBURN"
+    ],
+    "easting": "326581",
+    "name": "Lisburn",
+    "northing": "364591",
+    "real_time_crs": "LBA",
+    "real_time_id": "3044C3",
+    "timetable_id": "LB",
+    "type": "R"
+  },
+  "Londonderry": {
+    "_ids": [
+      "LY",
+      "3044C8",
+      "LDY",
+      "LDRY",
+      "LYA"
+    ],
+    "easting": "243932",
+    "name": "Londonderry",
+    "northing": "416219",
+    "real_time_crs": "LYA",
+    "real_time_id": "3044C8",
+    "timetable_id": "LY",
+    "type": "R"
+  },
+  "Lurgan": {
+    "_ids": [
+      "LUA",
+      "3044C7",
+      "LU",
+      "LUR",
+      "LURGN"
+    ],
+    "easting": "307838",
+    "name": "Lurgan",
+    "northing": "358928",
+    "real_time_crs": "LUA",
+    "real_time_id": "3044C7",
+    "timetable_id": "LU",
+    "type": "R"
+  },
+  "Magherabeg": {
+    "_ids": [
+      "MG",
+      "MAGBEG",
+      "MHG"
+    ],
+    "easting": "",
+    "name": "Magherabeg",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "MG",
+    "type": "other"
+  },
+  "Magheramorne": {
+    "_ids": [
+      "MM",
+      "MGRAMN",
+      "MMA",
+      "MAG",
+      "3044C9"
+    ],
+    "easting": "343608",
+    "name": "Magheramorne",
+    "northing": "398706",
+    "real_time_crs": "MMA",
+    "real_time_id": "3044C9",
+    "timetable_id": "MM",
+    "type": "R"
+  },
+  "Magheramorne Loop": {
+    "_ids": [
+      "MMLOOP",
+      "MM     2",
+      "MAGL",
+      "MP"
+    ],
+    "easting": "",
+    "name": "Magheramorne Loop",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "MP",
+    "type": "other"
+  },
+  "Malahide": {
+    "_ids": [
+      "MHIDE",
+      "MH"
+    ],
+    "easting": "",
+    "name": "Malahide",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "MH",
+    "type": "other"
+  },
+  "Marino": {
+    "_ids": [
+      "MARINO",
+      "MO",
+      "MAR",
+      "MOA",
+      "3044CA"
+    ],
+    "easting": "340901",
+    "name": "Marino",
+    "northing": "379815",
+    "real_time_crs": "MOA",
+    "real_time_id": "3044CA",
+    "timetable_id": "MO",
+    "type": "R"
+  },
+  "Moira": {
+    "_ids": [
+      "MOI",
+      "MRA",
+      "MR",
+      "3045CB",
+      "MOIRA"
+    ],
+    "easting": "315819",
+    "name": "Moira",
+    "northing": "361885",
+    "real_time_crs": "MRA",
+    "real_time_id": "3045CB",
+    "timetable_id": "MR",
+    "type": "R"
+  },
+  "Monkstown Junction": {
+    "_ids": [
+      "MONKSTN",
+      "MTJ",
+      "MN"
+    ],
+    "easting": "",
+    "name": "Monkstown Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "MN",
+    "type": "other"
+  },
+  "Mosney": {
+    "_ids": [
+      "MSNEY",
+      "MS",
+      "MY",
+      "???"
+    ],
+    "easting": "",
+    "name": "Mosney",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "MS",
+    "type": "other"
+  },
+  "Mossley West": {
+    "_ids": [
+      "MOW",
+      "MW",
+      "MWA",
+      "MOSLYWS",
+      "3045CC"
+    ],
+    "easting": "332106",
+    "name": "Mossley West",
+    "northing": "385119",
+    "real_time_crs": "MWA",
+    "real_time_id": "3045CC",
+    "timetable_id": "MW",
+    "type": "R"
+  },
+  "Newry": {
+    "_ids": [
+      "NEWRY",
+      "NRY",
+      "NYA",
+      "3045CD",
+      "NY"
+    ],
+    "easting": "306933",
+    "name": "Newry",
+    "northing": "327830",
+    "real_time_crs": "NYA",
+    "real_time_id": "3045CD",
+    "timetable_id": "NY",
+    "type": "R"
+  },
+  "Portadown": {
+    "_ids": [
+      "PDA",
+      "PDOWN",
+      "POR",
+      "3045CE",
+      "PD"
+    ],
+    "easting": "301113",
+    "name": "Portadown",
+    "northing": "354192",
+    "real_time_crs": "PDA",
+    "real_time_id": "3045CE",
+    "timetable_id": "PD",
+    "type": "R"
+  },
+  "Portrush": {
+    "_ids": [
+      "PHA",
+      "PH",
+      "PRH",
+      "3045CF",
+      "PRSH"
+    ],
+    "easting": "285768",
+    "name": "Portrush",
+    "northing": "440418",
+    "real_time_crs": "PHA",
+    "real_time_id": "3045CF",
+    "timetable_id": "PH",
+    "type": "R"
+  },
+  "Poyntzpass": {
+    "_ids": [
+      "PZP",
+      "PPASS",
+      "PSA",
+      "3045D0",
+      "PS"
+    ],
+    "easting": "306049",
+    "name": "Poyntzpass",
+    "northing": "339455",
+    "real_time_crs": "PSA",
+    "real_time_id": "3045D0",
+    "timetable_id": "PS",
+    "type": "R"
+  },
+  "Scarva": {
+    "_ids": [
+      "SAA",
+      "SA",
+      "3045D1",
+      "SV",
+      "SCARVA",
+      "SCA"
+    ],
+    "easting": "306367",
+    "name": "Scarva",
+    "northing": "343842",
+    "real_time_crs": "SAA",
+    "real_time_id": "3045D1",
+    "timetable_id": "SA",
+    "type": "R"
+  },
+  "Seahill": {
+    "_ids": [
+      "SEAHILL",
+      "SLA",
+      "SL",
+      "SEA",
+      "3045D2"
+    ],
+    "easting": "344061",
+    "name": "Seahill",
+    "northing": "381462",
+    "real_time_crs": "SLA",
+    "real_time_id": "3045D2",
+    "timetable_id": "SL",
+    "type": "R"
+  },
+  "Skerries": {
+    "_ids": [
+      "SKA",
+      "SK",
+      "SKRES"
+    ],
+    "easting": "",
+    "name": "Skerries",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "SKA",
+    "type": "other"
+  },
+  "Sydenham": {
+    "_ids": [
+      "SYD",
+      "SYA",
+      "3045D3",
+      "SYDNHM",
+      "SY"
+    ],
+    "easting": "336625",
+    "name": "Sydenham",
+    "northing": "375090",
+    "real_time_crs": "SYA",
+    "real_time_id": "3045D3",
+    "timetable_id": "SY",
+    "type": "R"
+  },
+  "Templepatrick": {
+    "_ids": [
+      "TMP",
+      "TEMPLEP",
+      "TP",
+      "TK"
+    ],
+    "easting": "",
+    "name": "Templepatrick",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "TK",
+    "type": "other"
+  },
+  "Titanic Quarter": {
+    "_ids": [
+      "BE",
+      "BRGEND",
+      "BEA",
+      "BRI",
+      "3042A4"
+    ],
+    "easting": "335340",
+    "name": "Titanic Quarter",
+    "northing": "374643",
+    "real_time_crs": "BEA",
+    "real_time_id": "3042A4",
+    "timetable_id": "BE",
+    "type": "R"
+  },
+  "Trooperslane": {
+    "_ids": [
+      "TE",
+      "TPRSLNE",
+      "3045D4",
+      "TEA",
+      "TRO"
+    ],
+    "easting": "338702",
+    "name": "Trooperslane",
+    "northing": "386846",
+    "real_time_crs": "TEA",
+    "real_time_id": "3045D4",
+    "timetable_id": "TE",
+    "type": "R"
+  },
+  "University": {
+    "_ids": [
+      "UNIVER",
+      "UNI",
+      "UVA",
+      "UV",
+      "3045D5"
+    ],
+    "easting": "284954",
+    "name": "University",
+    "northing": "434499",
+    "real_time_crs": "UVA",
+    "real_time_id": "3045D5",
+    "timetable_id": "UV",
+    "type": "R"
+  },
+  "Unknown Depot 1": {
+    "_ids": [
+      "AM"
+    ],
+    "easting": "",
+    "name": "Unknown Depot 1",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "AM",
+    "type": "other"
+  },
+  "Unknown Depot 2": {
+    "_ids": [
+      "FWD"
+    ],
+    "easting": "",
+    "name": "Unknown Depot 2",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "FWD",
+    "type": "other"
+  },
+  "Unknown Depot 3": {
+    "_ids": [
+      "YD"
+    ],
+    "easting": "",
+    "name": "Unknown Depot 3",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "YD",
+    "type": "other"
+  },
+  "Westlink Junction": {
+    "_ids": [
+      "WESTLKJ",
+      "WLJ",
+      "WESTLKJ ",
+      "WJ"
+    ],
+    "easting": "",
+    "name": "Westlink Junction",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "WJ",
+    "type": "other"
+  },
+  "Westlink Junction 2": {
+    "_ids": [
+      "WJ     2",
+      "WJ"
+    ],
+    "easting": "",
+    "name": "Westlink Junction 2",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "WJ",
+    "type": "other"
+  },
+  "Whiteabbey": {
+    "_ids": [
+      "WHTABY",
+      "WY",
+      "WYA",
+      "3045D7",
+      "WA",
+      "WHA"
+    ],
+    "easting": "335239",
+    "name": "Whiteabbey",
+    "northing": "382491",
+    "real_time_crs": "WYA",
+    "real_time_id": "3045D7",
+    "timetable_id": "WY",
+    "type": "R"
+  },
+  "Whitehead": {
+    "_ids": [
+      "WHTEHED",
+      "WDA",
+      "3045D6",
+      "WHD",
+      "WD"
+    ],
+    "easting": "347510",
+    "name": "Whitehead",
+    "northing": "391838",
+    "real_time_crs": "WDA",
+    "real_time_id": "3045D6",
+    "timetable_id": "WD",
+    "type": "R"
+  },
+  "Whitehead RPSI Siding": {
+    "_ids": [
+      "WHS",
+      "RP",
+      "WDRPSI",
+      "RPSI"
+    ],
+    "easting": "",
+    "name": "Whitehead RPSI Siding",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "RPSI",
+    "type": "other"
+  },
+  "York Road Depot": {
+    "_ids": [
+      "YRD"
+    ],
+    "easting": "",
+    "name": "York Road Depot",
+    "northing": "",
+    "real_time_crs": "",
+    "real_time_id": "",
+    "timetable_id": "",
+    "type": "other"
+  },
+  "Yorkgate": {
+    "_ids": [
+      "YKG",
+      "YRKGATE",
+      "3045D8",
+      "YG",
+      "YGA"
+    ],
+    "easting": "334254",
+    "name": "Yorkgate",
+    "northing": "375736",
+    "real_time_crs": "YGA",
+    "real_time_id": "3045D8",
+    "timetable_id": "YG",
+    "type": "R"
+  }
 }
