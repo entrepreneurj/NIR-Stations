@@ -523,7 +523,7 @@
     "northing": "",
     "real_time_crs": "",
     "real_time_id": "",
-    "timetable_id": "",
+    "timetable_id": "FW",
     "type": "other"
   },
   "Glynn": {
@@ -895,8 +895,7 @@
     "_ids": [
       "MSNEY",
       "MS",
-      "MY",
-      "???"
+      "MY"
     ],
     "easting": "",
     "name": "Mosney",
@@ -1173,7 +1172,7 @@
     "northing": "",
     "real_time_crs": "",
     "real_time_id": "",
-    "timetable_id": "WJ",
+    "timetable_id": "WJ     2",
     "type": "other"
   },
   "Whiteabbey": {
@@ -1233,7 +1232,7 @@
     "northing": "",
     "real_time_crs": "",
     "real_time_id": "",
-    "timetable_id": "",
+    "timetable_id": "YRD",
     "type": "other"
   },
   "Yorkgate": {
